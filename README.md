@@ -1,1 +1,1 @@
-This repository is a collection of data science projects I was working on lately. These projects tackle the different fields of data science, including but not restriced to data cleaning, data analysis and data visualization. 
+This repository is a collection of data science projects I was working on lately. These projects cover many aspects of a data science project, including but not restriced to data cleaning, data analysis and data visualization. 
